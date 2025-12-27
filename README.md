@@ -68,7 +68,7 @@ nav a:hover{
     cursor:pointer;
 }
 
-/* Sections */
+
 section{
     padding:50px 10%;
     text-align:center;
@@ -78,7 +78,6 @@ section{
     background:#f0f0f0;
 }
 
-/* Skills */
 .skills{
     display:flex;
     justify-content:center;
@@ -92,8 +91,6 @@ section{
     padding:10px 18px;
     border-radius:20px;
 }
-
-/* Projects */
 .projects{
     display:flex;
     justify-content:center;
